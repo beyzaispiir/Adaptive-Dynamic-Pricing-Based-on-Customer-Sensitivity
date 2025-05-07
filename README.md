@@ -20,5 +20,15 @@ Read the full LaTeX report here: [`main.pdf`](main.pdf)
 You can preview the notebook on [nbviewer](https://nbviewer.org/) or convert it to HTML using Jupyter.
 
 ---
+Adaptive-Dynamic-Pricing-Based-on-Customer-Sensitivity/
+├── main.tex
+├── report.pdf
+├── survey.csv
+├── Adaptive Pricing.ipynb
+└── figures/
+    ├── cumulative revenue over time.png
+    ├── regret overtime.png
+    ├── ...
+
 **Author:** Beyza Ispir  
 
