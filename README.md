@@ -30,5 +30,6 @@ This project explores how adaptive pricing strategies can be used to optimize re
 
 **Beyza Ispir**  
 Master of Industrial Engineering, Rice University  
-[📧 https://www.linkedin.com/in/beyza-ispir-58530b26b/]
+[🔗 LinkedIn](https://www.linkedin.com/in/beyza-ispir-58530b26b/)
+
 
